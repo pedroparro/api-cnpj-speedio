@@ -1,0 +1,22 @@
+/*Author: Pedro Parro*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+}
+h2 {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+table {
+    width: 100vw;
+}
+thead {
+    background-color: rgb(167, 4, 4);
+    color: #fff;
+}
